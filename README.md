@@ -65,8 +65,8 @@ c.close()
 
 ### server
 ![image-1](https://github.com/user-attachments/assets/6cefbc06-b4c8-440f-8ce4-e9e9c35a4439)
-# Name : Rajalakshmi R
-# Reg No : 212223110037
+## Name : ABINAV AADITYA
+## Reg No : 212224040008
 ### client
 ![image](https://github.com/user-attachments/assets/70dfb06d-d87f-4899-ac58-b658844bf28c)
 
